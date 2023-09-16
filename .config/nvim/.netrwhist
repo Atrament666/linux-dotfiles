@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/mnt/nvme/Users/Atrament/Nextcloud/my-documents/itnetwork/java/Základní konstrukce jazyka Java/Lekce 13 - Matematické funkce v Javě a knihovna Math/MathKonstanty'
+let g:netrw_dirhist_2='/home/atrament/Desktop'
+let g:netrw_dirhist_1='/home/atrament/dolcamp/zdroj'
+let g:netrw_dirhist_0='/mnt/data/dosgames/GAMES/Ultima 7'
+let g:netrw_dirhist_9='/mnt/data/dosgames/GAMES'
+let g:netrw_dirhist_8='/mnt/data/dosgames'
+let g:netrw_dirhist_7='/mnt/data'
+let g:netrw_dirhist_6='/mnt'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_4='/home/atrament/bin'
