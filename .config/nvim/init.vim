@@ -90,7 +90,7 @@ map <F15> :NERDTreeFind
 map <tab> <Right>
 map <S-Tab> <Left>
 let g:UltiSnipsExpandTrigger='<tab>'
-map <f16> :Buffers
+map <M-Tab> :Buffers
 
 if has("autocmd")
 	  autocmd BufReadPost *
